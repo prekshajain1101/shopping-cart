@@ -151,6 +151,6 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Prabal Gupta</b>
+                                                                                                         <b>Preksha Jain</b>
 
 
